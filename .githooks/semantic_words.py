@@ -10,6 +10,5 @@ semantic_words = [
 "ci",
 "chore",
 "revert",
-"release",
-"test"
+"release"
 ]
