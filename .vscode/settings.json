@@ -1,6 +1,0 @@
-{
-    "files.autoGuessEncoding": true,
-    "files.exclude": {
-        "**/.git": false
-    }
-}
