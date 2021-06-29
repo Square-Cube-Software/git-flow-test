@@ -2,7 +2,7 @@
 * [Python: 3.9.x](https://www.python.org)
 # 2.- Install
 
-* Install [pre-commit](https://pre-commit.com) by executing the following command:
+* Install [pre-commit](https://pre-commit.com) by executing the following command:   
 ``pip install pre-commit`` or ``py -m pip install pre-commit`` (if you don't have pip added to your PATH)
 
 * Clone or Fork the repository
