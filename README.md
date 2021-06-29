@@ -13,7 +13,7 @@
 ``pre-commit install``
 
 * Move the local repo hooks to the official github folder by executing the following command:<br>
-``robocopy .githooks .git/hooks``<br>
+``robocopy .githooks .git/hooks``<br><br>
 **IMPORTANT: EVERY TIME THE LOCAL HOOKS LOCATED AT ``.githooks`` FOLDER ARE UPDATED, YOU HAVE TO RUN THE ABOVE COMMAND TO SYNC IT**
 
 * You are done, enjoy it 😊
