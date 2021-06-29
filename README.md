@@ -3,14 +3,14 @@
 # 2.- Install
 
 * Install [pre-commit](https://pre-commit.com) by executing the following command:
-``pip install pre-commit``
+``pip install pre-commit`` or ``py -m pip install pre-commit`` (if you don't have pip added to your PATH)
 
 * Clone or Fork the repository
 
+* Open a terminal in the root folder (git-flow-test)
+
 * Install the current hooks by executing the following command:
 ``pre-commit install``
-
-* Open a terminal in the root folder (git-flow-test)
 
 * Move the local repo hooks to the official github folder by executing the following command:
 ``robocopy .githooks .git/hooks``
