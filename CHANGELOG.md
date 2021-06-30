@@ -24,6 +24,7 @@ All notable changes to this project will be documented in this file. See [standa
 * pre commit config ([fdae8bd](https://github.com/Square-Cube-Software/git-flow-test/commits/fdae8bd501519d673d08976b423853893c92dec1))
 * pre-commit and commit-msg coexisting fine ([35ec69c](https://github.com/Square-Cube-Software/git-flow-test/commits/35ec69cf408ecfa78598be62d9bc921a8620c8bd))
 * remove some files ([#1](https://github.com/Square-Cube-Software/git-flow-test/issues/1)) ([d67f27e](https://github.com/Square-Cube-Software/git-flow-test/commits/d67f27eea8b362cf927d5dff4b74c73656689637))
+* standard-version changelog added ([5488125](https://github.com/Square-Cube-Software/git-flow-test/commits/5488125b85c5ba81555fca95f6041f8d7c438ea4))
 * sync command hooks and readme.md ([11a177d](https://github.com/Square-Cube-Software/git-flow-test/commits/11a177d91bd16a3e37c83ac454d6f0ee56cc7500))
 
 
