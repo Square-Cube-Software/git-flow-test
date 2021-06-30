@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/Square-Cube-Software/git-flow-test/compare/v0.3.0...v1.1.0) (2021-06-30)
+
+
+### Features
+
+* new file ([58e830f](https://github.com/Square-Cube-Software/git-flow-test/commits/58e830f357359d835a7a95980bdef4e21a904c37))
+
+## [1.1.0](https://github.com/Square-Cube-Software/git-flow-test/compare/v0.3.0...v1.1.0) (2021-06-30)
+
+
+### Features
+
+* new file ([58e830f](https://github.com/Square-Cube-Software/git-flow-test/commits/58e830f357359d835a7a95980bdef4e21a904c37))
+
 ## 1.1.0 (2021-06-30)
 
 
